@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Фундамент";
+$arDirProperties = Array(
+
+);
+?>

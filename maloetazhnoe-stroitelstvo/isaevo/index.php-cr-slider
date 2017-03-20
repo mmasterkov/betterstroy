@@ -1,0 +1,150 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Строительство под ключ,частного дома д.Исаево");
+$APPLICATION->SetPageProperty("title", "Строительство под ключ частного дома в Исаево от компании BetterStroy");
+$APPLICATION->SetPageProperty("description", "Компания BetterStroy выполнит полный комплекс работ по возведению частного дома под ключ в Исаево. Обширная материально-техническая база и использование качественных материалов гарантируют успешный  результат. Получить более подробную информацию Вы можете на нашем сайте.");
+?>
+
+<!--content-->
+<div class="content"> 
+<div class="thumb-box1">
+<div class="container content-in-page">
+<h1 class="wow fadeIn h1css">Строительство под ключ</h1>
+
+<link rel="stylesheet" href="/jq.slider/slider-pro.min.css"/>
+<script src="/jq.slider/jquery.sliderPro.js"></script>
+
+<div class="slider-pro" id="my-slider">
+    <div class="sp-slides">
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/1.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/2.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/3.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/4.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/5.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/6.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/7.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/8.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/9.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/10.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/11.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/12.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/13.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/isaevo/14.jpg"/>
+        </div>
+    </div>
+    <div class="sp-thumbnails">
+      <img class="sp-thumbnail" src="/img/isaevo/min/1.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/2.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/3.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/4.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/5.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/6.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/7.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/8.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/9.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/10.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/11.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/12.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/13.jpg"/>
+      <img class="sp-thumbnail" src="/img/isaevo/min/14.jpg"/>
+    </div>
+</div>
+
+<script type="text/javascript">
+    jQuery( document ).ready(function( $ ) {
+        $( '#my-slider' ).sliderPro({
+      width: 960,
+      height: 500,
+      fade: true,
+      arrows: true,
+      buttons: false,
+      fullScreen: true,
+      shuffle: true,
+      smallSize: 500,
+      mediumSize: 1000,
+      largeSize: 3000,
+      thumbnailArrows: true,
+      autoplay: false
+    });
+    });
+</script>
+
+<br />
+
+<p>Возведение частного дома под ключ подразумевает выполнение полного комплекса работ силами одной компании — по завершении вы получаете жилье, построенное с нуля и полностью готовое к проживанию. Наша компания предоставляет такие услуги, гарантируя высокое качество конечного результата!</p>
+<p>Почему стоит заказать строительство малоэтажного здания в компании BetterStroy?</p>
+<ul>
+<li>Применение современных технологий и методов строительства. Специалисты BetterStroy владеют наиболее востребованными современными технологиями строительства зданий и осуществляют работы, учитывая особенности российского климата, тип почвы и потребности заказчика. Это позволяет успешно воплощать все проекты в жизнь.</li>
+<li>Обширная материально-техническая база и использование качественных материалов. Строительные и отделочные материалы проверенных производителей — гарантия получения долговечного и надежного строения, отвечающего всем требованиям безопасности.</li>
+<li>Возможность строительства по индивидуальным или готовым проектам. В нашем каталоге представлены планы домов разной площади и этажности, из которых вы можете выбрать наиболее подходящий именно для вас. Если ни один из проектов не является таковым, наши дизайнеры создадут проект здания, ориентированный на ваши запросы.</li>
+</ul>
+<p>Стоимость работ рассчитывается индивидуально. Средние расценки для ознакомления:</p>
+<ul>
+<li>базовые строительные работы (закладка фундамента, строительство стен, устройство кровли) — 6–7 миллионов рублей;</li>
+<li>строительство под ключ (с черновой и чистовой отделкой, прокладкой внутренних коммуникаций) — 12 миллионов рублей.</li>
+</ul>
+<p>Звоните, и мы ответим на все интересующие вопросы.</p>
+
+<br /><br />
+
+<p class="wow fadeIn likeh4">Другие проекты</p>
+
+<div class="razd">
+    <div class="rd-item">
+          <a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">
+            <img src="/img/nikolo-pyatnickoe/1.JPG">
+          </a>
+          <a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">строительство <br>дома в коттеджном <br> посёлке <br>Николо-Пятницкое</a>
+        </div>
+        <div class="rd-item">
+          <a href="/maloetazhnoe-stroitelstvo/isaevo/">
+            <img src="/img/isaevo/1.jpg">
+          </a>
+          <a href="/maloetazhnoe-stroitelstvo/isaevo/">строительство <br>под ключ, <br> частного дома  <br>д.Исаево</a>
+        </div>
+     
+    
+        <div class="rd-item">
+          <a href="/maloetazhnoe-stroitelstvo/yamishevo/">
+            <img src="/img/yamishevo/1.jpg">
+          </a>
+          <a href="/maloetazhnoe-stroitelstvo/yamishevo/">строительство <br>под ключ, <br> частного дома  <br>д.Ямищево</a>
+        
+     </div></div>
+
+<div style="clear:both"></div>
+
+
+<br /><br />
+
+</div></div></div>
+
+
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

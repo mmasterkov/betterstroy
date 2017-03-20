@@ -1,0 +1,155 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Строительство дома в коттеджном посёлке Николо-Пятницкое");
+?>
+
+<!--content-->
+<div class="content"> 
+<div class="thumb-box1">
+<h1 class="wow fadeIn h1css">Строительство дома в коттеджном посёлке Николо-Пятницкое</h1>
+
+
+<link rel="stylesheet" href="/jq.slider/slider-pro.min.css"/>
+<script src="/jq.slider/jquery.sliderPro.js"></script>
+
+
+<div class="slider-pro" id="my-slider">
+    <div class="sp-slides">
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/1.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/2.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/3.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/4.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/5.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/6.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/7.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/8.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/9.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/10.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/11.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/12.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/13.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/14.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/15.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/15.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/17.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/18.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/19.JPG"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/nikolo-pyatnickoe/20.JPG"/>
+        </div>
+    </div>
+    <div class="sp-thumbnails">
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/1.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/2.jpg"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/3.jpg"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/4.jpg"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/5.jpg"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/6.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/7.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/8.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/9.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/10.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/11.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/12.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/13.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/14.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/15.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/16.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/17.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/18.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/19.JPG"/>
+			<img class="sp-thumbnail" src="/img/nikolo-pyatnickoe/20.JPG"/>
+		</div>
+</div>
+
+<script type="text/javascript">
+    jQuery( document ).ready(function( $ ) {
+        $( '#my-slider' ).sliderPro({
+			width: 960,
+			height: 500,
+			fade: true,
+			arrows: true,
+			buttons: false,
+			fullScreen: true,
+			shuffle: true,
+			smallSize: 500,
+			mediumSize: 1000,
+			largeSize: 3000,
+			thumbnailArrows: true,
+			autoplay: false
+		});
+    });
+</script>
+
+<br /><br />
+
+<p class="wow fadeIn likeh4">Другие проекты</p>
+
+<div class="razd">
+		<div class="rd-item">
+					<a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">
+						<img src="/img/nikolo-pyatnickoe/1.JPG">
+					</a>
+					<a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">строительство <br>дома в коттеджном <br> посёлке <br>Николо-Пятницкое</a>
+				</div>
+				<div class="rd-item">
+					<a href="/maloetazhnoe-stroitelstvo/isaevo/">
+						<img src="/img/isaevo/1.jpg">
+					</a>
+					<a href="/maloetazhnoe-stroitelstvo/isaevo/">строительство <br>под ключ, <br> частного дома  <br>д.Исаево</a>
+				</div>
+		 
+		
+				<div class="rd-item">
+					<a href="/maloetazhnoe-stroitelstvo/yamishevo/">
+						<img src="/img/yamishevo/1.jpg">
+					</a>
+					<a href="/maloetazhnoe-stroitelstvo/yamishevo/">строительство <br>под ключ, <br> частного дома  <br>д.Ямищево</a>
+				
+		 </div></div>
+
+<div style="clear:both"></div>
+
+<br /><br />
+
+</div></div>
+
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

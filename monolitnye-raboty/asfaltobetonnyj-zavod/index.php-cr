@@ -1,0 +1,123 @@
+<?
+require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+$APPLICATION->SetTitle("Строительство асфальтобетонного завода г. Москва, ул. Рябиновая, 34");
+?>
+
+<!--content-->
+<div class="content"> 
+<div class="thumb-box1">
+<h1 class="wow fadeIn h1css">Строительство асфальтобетонного завода г. Москва, ул. Рябиновая, 34</h1>
+
+
+<link rel="stylesheet" href="/jq.slider/slider-pro.min.css"/>
+<script src="/jq.slider/jquery.sliderPro.js"></script>
+
+<div class="slider-pro" id="my-slider">
+    <div class="sp-slides">
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy1.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy2.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy3.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy4.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy5.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy6.jpg"/>
+        </div>
+        <!-- <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy7.jpg"/>
+        </div> -->
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy8.jpg"/>
+        </div>
+        <div class="sp-slide">
+            <img class="sp-image" src="/img/monolitnye-raboty/fancy/fancy9.jpg"/>
+        </div>
+    </div>
+    <div class="sp-thumbnails">
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy1.jpg"/>
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy2.jpg"/>
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy3.jpg"/>
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy4.jpg"/>
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy5.jpg"/>
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy6.jpg"/>
+      <!-- <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy7.jpg"/> -->
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy8.jpg"/>
+      <img class="sp-thumbnail" src="/img/monolitnye-raboty/fancy/fancy9.jpg"/>
+    </div>
+</div>
+
+<script type="text/javascript">
+    jQuery( document ).ready(function( $ ) {
+        $( '#my-slider' ).sliderPro({
+      width: 960,
+      height: 500,
+      fade: true,
+      arrows: true,
+      buttons: false,
+      fullScreen: true,
+      shuffle: true,
+      smallSize: 500,
+      mediumSize: 1000,
+      largeSize: 3000,
+      thumbnailArrows: true,
+      autoplay: false
+    });
+    });
+</script>
+
+<br />
+
+<p class="wow fadeIn likeh4">Другие проекты</p>
+
+<div class="razd">
+        <div class="rd-item">
+            <a href="/monolitnye-raboty/asfaltobetonnyj-zavod/">
+                <img src="/img/monolitnye-raboty/fancy/fancy1.jpg">
+            </a>
+            <a href="/monolitnye-raboty/asfaltobetonnyj-zavod/">Строительство <br>асфальтобетонного<br> завода г. Москва, <br>ул. Рябиновая, 34</a>
+        </div>
+
+
+        <div class="rd-item">
+            <a href="/monolitnye-raboty/varshavskij-proezd/">
+                <img src="/img/monolitnye-raboty/varshavskij-proezd/IMG-20160219-WA0000.jpg">
+            </a>
+            <a href="/monolitnye-raboty/varshavskij-proezd/">Замена перекрытия <br> по профлисту и <br> двутавровым балкам <br> г.Москва 1й Варшавский проезд</a>
+        </div>
+
+        <div class="rd-item">
+            <a href="/monolitnye-raboty/ustrojstvo-zabora-i-otmostki/">
+                <img src="/img/monolitnye-raboty/ustrojstvo-zabora-i-otmostki/IMG-20160219-WA0002.jpg">
+            </a>
+            <a href="/monolitnye-raboty/ustrojstvo-zabora-i-otmostki/">Устройство забора <br> и отмостки</a>
+        </div>
+
+        <div class="rd-item">
+            <a href="/monolitnye-raboty/kolomna-cementnikov/">
+                <img src="/img/monolitnye-raboty/kolomna-cementnikov/IMG-20160219-WA0012.jpg">
+            </a>
+            <a href="/monolitnye-raboty/kolomna-cementnikov/">Устройство монолитных <br> конструкций  под оборудования <br> на заводе по производству <br> цемента HOLCIM <br> Коломна ул. Цементников 1</a>
+        </div>
+
+
+    </div>
+
+<div style="clear:both"></div>
+
+
+<br /><br />
+
+</div></div></div>
+
+
+
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

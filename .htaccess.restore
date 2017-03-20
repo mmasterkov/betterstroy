@@ -1,0 +1,25 @@
+Options -Indexes 
+ErrorDocument 404 /404.php
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.betterstroy\.ru$ [NC]
+RewriteRule ^(.*)$ http://betterstroy.ru/$1 [R=301,L]
+RewriteCond %{REQUEST_URI} index\.php
+RewriteRule ^(.*)index\.php$ /$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^u0069420.isp.regruhosting.ru$ [NC]
+RewriteRule ^robots\.txt$ /robots-isp.txt [L]
+
+RewriteCond %{HTTP_HOST} ^betterstroy.ru$ [NC]
+RewriteRule ^robots\.txt$ /robots-main.txt [L]
+
+
+RewriteRule ^otd/$ otdelochnye-raboty/ [R=301,L]
+RewriteRule ^fas/$ fasadnye-raboty/ [R=301,L]
+RewriteRule ^str/$ maloetazhnoe-stroitelstvo/ [R=301,L]
+
+
+
+
+  
