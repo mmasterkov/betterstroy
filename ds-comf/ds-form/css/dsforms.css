@@ -2,7 +2,7 @@
   Global style
   -------------------------------------------------- */
 form > div[class^="field"] {
-  margin: 15px 0;
+  margin: 28px 0;
   font-family: "Six Caps";
 }
 form div[class^="field"] .focusout {
@@ -124,7 +124,8 @@ margin-top: 0;
 }
 #form-dsroado .form-head {
     color: white;
-    font: 48px/48px "Six Caps";
+    font-size: 42px;
+    font-family: 'Roboto';
     text-align: center;
     text-transform: uppercase;
 }
