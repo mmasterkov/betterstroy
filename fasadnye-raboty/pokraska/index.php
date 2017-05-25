@@ -18,40 +18,19 @@ $APPLICATION->SetPageProperty("keywords", "услуга покраски фас�
 
 <p class="wow fadeIn likeh4">Примеры наших работ:</p>
     <div class="razd">
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/znaika/">
-                <img src="/fasadnye-raboty/znaika/img/fancy3.jpg">
-            </a>
-            <a href="/fasadnye-raboty/znaika/">Школа-детский сад знайка</a>
+        <div class="ds-raboti">
+           <a href="/fasadnye-raboty/znaika/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/fasadnye-raboty/znaika/img/fancy3.jpg"></div>
+				<div class="dsrb-info">Школа-детский сад знайка</div>
+			</a>
         </div>
-        
-
     </div>
-
-
 				 <style>
   .cr .rd-item > a > img {
     height: 220px;
     width: 291px;
 }
 </style>
-<!--				<div class="razd cr">
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/pokraska/1.jpg"> <img alt="покраска фасадов домов цена" src="/img/gallery/pokraska/1.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/pokraska/2.jpg"> <img alt="покраска фасадов домов цена" src="/img/gallery/pokraska/2.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/pokraska/3.jpg"> <img alt="сколько стоит покраска фасадов домов" src="/img/gallery/pokraska/3.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/pokraska/4.jpg"> <img alt="качественная покраска фасадов зданий" src="/img/gallery/pokraska/4.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/pokraska/5.jpg"> <img alt="покраска фасадов зданий по выгодной стоимости" src="/img/gallery/pokraska/5.jpg"> </a>
-					</div>
-				</div>-->
 				<h2>Цены на покраску фасадов </h2>
 				<table class="table table-bordered table-condensed table-pr table_pr">
 				<tbody>
@@ -174,14 +153,14 @@ $APPLICATION->SetPageProperty("keywords", "услуга покраски фас�
 					 Вы можете получить более подробную консультацию относительно предоставляемых услуг, позвонив нашим менеджерам.
 				</p>
 				<ul class="perilink">
-<li><a href="http://betterstroy.ru/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД </a></li>
+<li><a href="/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД </a></li>
 </ul>
 			</div>
 		</div>
 	</div>
 </div>
- <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

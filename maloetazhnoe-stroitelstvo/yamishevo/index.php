@@ -11,54 +11,28 @@ $APPLICATION->SetPageProperty("description", "Компания BetterStroy пр�
 <div class="container content-in-page">
 <h1 class="wow fadeIn h1css">Строительство частного дома, д. Ямищево</h1>
 
+<?
+$arGallery = array(
+  "/img/yamishevo/1.jpg",
+  "/img/yamishevo/2.jpg",
+  "/img/yamishevo/3.jpg",
+  "/img/yamishevo/4.jpg",
+  "/img/yamishevo/5.jpg",
+  "/img/yamishevo/6.jpg",
+  "/img/yamishevo/7.jpg",
+  "/img/yamishevo/8.jpg",
+  "/img/yamishevo/9.jpg",
+  "/img/yamishevo/10.jpg",
+  "/img/yamishevo/11.jpg",
+  "/img/yamishevo/12.jpg",
+  "/img/yamishevo/13.jpg",
+  "/img/yamishevo/14.jpg",
+  
+);
 
+showGallery($arGallery);
+?>
 
-<div class="slider-pro" id="my-slider">
-    <div class="sp-slides">
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/1.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/2.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/3.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/4.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/5.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/6.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/7.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/8.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/9.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/10.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/11.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/12.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/13.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/yamishevo/14.jpg"/></a>
-        </div>
-    </div>
-    <div style="clear:both;"></div>
 
 <br />
 
@@ -70,32 +44,12 @@ $APPLICATION->SetPageProperty("description", "Компания BetterStroy пр�
 <p class="wow fadeIn likeh4">Другие проекты</p>
 
 <div class="razd">
-    <div class="rd-item">
-          <a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">
-            <img src="/img/nikolo-pyatnickoe/1.JPG">
-          </a>
-          <a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">строительство <br>дома в коттеджном <br> посёлке <br>Николо-Пятницкое</a>
-        </div>
-        <div class="rd-item">
-          <a href="/maloetazhnoe-stroitelstvo/isaevo/">
-            <img src="/img/isaevo/1.jpg">
-          </a>
-          <a href="/maloetazhnoe-stroitelstvo/isaevo/">строительство <br>под ключ, <br> частного дома  <br>д.Исаево</a>
-        </div>
-     
-    
-        <div class="rd-item">
-          <a href="/maloetazhnoe-stroitelstvo/yamishevo/">
-            <img src="/img/yamishevo/1.jpg">
-          </a>
-          <a href="/maloetazhnoe-stroitelstvo/yamishevo/">строительство <br>под ключ, <br> частного дома  <br>д.Ямищево</a>
-        
-     </div></div>
+			<?include("../maloetaznoe-stroitelstvo-primeri.php");?>
+		</div>
 
 <div style="clear:both"></div>
 
 <br /><br />
-
-</div></div></div>
+</div></div>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

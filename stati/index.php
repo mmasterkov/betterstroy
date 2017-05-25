@@ -24,7 +24,7 @@ $APPLICATION->SetPageProperty("description", "Компания Better Story за
 			  <h1 class="wow fadeIn h1css">Статьи</h1>
 			<?}?>
 		    <?$APPLICATION->IncludeComponent("bitrix:news", ".default", Array(
-	"ADD_ELEMENT_CHAIN" => "N",	// Включать название элемента в цепочку навигации
+		"ADD_ELEMENT_CHAIN" => "Y",	// Включать название элемента в цепочку навигации
 		"ADD_SECTIONS_CHAIN" => "Y",	// Включать раздел в цепочку навигации
 		"AJAX_MODE" => "N",	// Включить режим AJAX
 		"AJAX_OPTION_ADDITIONAL" => "",	// Дополнительный идентификатор
@@ -60,7 +60,7 @@ $APPLICATION->SetPageProperty("description", "Компания Better Story за
 		"HIDE_LINK_WHEN_NO_DETAIL" => "N",	// Скрывать ссылку, если нет детального описания
 		"IBLOCK_ID" => "5",	// Инфоблок
 		"IBLOCK_TYPE" => "article_block",	// Тип инфоблока
-		"INCLUDE_IBLOCK_INTO_CHAIN" => "Y",	// Включать инфоблок в цепочку навигации
+		"INCLUDE_IBLOCK_INTO_CHAIN" => "N",	// Включать инфоблок в цепочку навигации
 		"LIST_ACTIVE_DATE_FORMAT" => "",	// Формат показа даты
 		"LIST_FIELD_CODE" => array(	// Поля
 			0 => "",

@@ -79,7 +79,7 @@ h1.navbar-brand_ a img {
 	width: 100%;
 }
 h1{
-font: 48px/48px 'Six Caps';
+font-size: 48px;
     color: #3e3d3d;
     margin: 0 0 22px 0;
     letter-spacing: 1px;
@@ -95,7 +95,7 @@ h2 {
     text-transform: uppercase;
 }
 h3, .h1css {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	margin: 0 0 22px 0;
 	letter-spacing: 1px;
@@ -436,7 +436,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 .thumb-box2 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #ffffff;
 	letter-spacing: 1px;
 	padding: 0 40px;
@@ -458,14 +458,14 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	border-bottom: 1px solid #dadada;
 }
 .thumb-box3 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	margin-bottom: 43px;
 	position: relative;
 }
 .thumb-box3 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	letter-spacing: 1px;
 	padding: 0 115px;
@@ -521,11 +521,10 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	margin-right: 10px;
 }
 .thumb-box4 .title {
-	font: 300 14px/14px 'Roboto Condensed', "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
 	color: #df9e5d;
-	text-transform: uppercase;
 	margin-bottom: 0;
-		font-weight: bold;
+	font-weight: bold;
 }
 .thumb-box5 {
 	background: #2c2c2c;
@@ -534,7 +533,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	padding: 61px 0 16px 0;
 }
 .thumb-box5 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #ffffff;
 	margin-bottom: 43px;
 	position: relative;
@@ -542,7 +541,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 .thumb-box5 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #ffffff;
 	letter-spacing: 1px;
 	padding: 0 100px;
@@ -570,7 +569,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	text-align: center;
 }
 .thumb-box7 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	margin-bottom: 43px;
 	position: relative;
@@ -579,7 +578,7 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 .thumb-box7 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	letter-spacing: 1px;
 	padding: 0 134px;
@@ -627,16 +626,16 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	padding: 61px 0 34px 0;
 }
 .thumb-box8 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #ffffff;
 	margin-bottom: 43px;
 	position: relative;
-	text-transform: uppercase;
+
 }
 .thumb-box8 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #ffffff;
 	letter-spacing: 1px;
 	padding: 0 90px;
@@ -658,14 +657,14 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	border-bottom: 1px solid #dadada;
 }
 .thumb-box9 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	margin-bottom: 43px;
 	position: relative;
 }
 .thumb-box9 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	letter-spacing: 1px;
 	padding: 0 126px;
@@ -706,14 +705,14 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	text-align: center;
 }
 .thumb-box11 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	margin-bottom: 43px;
 	position: relative;
 }
 .thumb-box11 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	letter-spacing: 1px;
 	padding: 0 70px;
@@ -733,14 +732,14 @@ nav.tm_navbar .sub-menu > ul li > ul li a:hover {
 	text-align: center;
 }
 .thumb-box12 .title {
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	margin-bottom: 43px;
 	position: relative;
 }
 .thumb-box12 .title span {
 	position: relative;
 	z-index: 1;
-	font: 48px/48px 'Six Caps';
+	font-size: 48px;
 	color: #3e3d3d;
 	letter-spacing: 1px;
 	padding: 0 70px;
@@ -1773,8 +1772,8 @@ footer span {
  padding: 0;
  margin: 0;
 }
- nav.tm_navbar .nav {
- display: none !important;
+nav.tm_navbar li{
+ display: block;	
 }
  h2 {
  font-size: 50px;
@@ -1938,8 +1937,8 @@ ul.list_marck li {
   display: block;	
 }
 */
-.nav.sf-menu > li > ul > li:hover a {
-  color: #df9e5d;
+.nav.sf-menu ul.dropdown a:hover {
+  background: #0e76bc;
 }
 
 .content-in-page{

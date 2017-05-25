@@ -7,7 +7,7 @@ $APPLICATION->SetPageProperty("keywords", "");
 $APPLICATION->SetTitle("Новости");
 ?>
 <div class="content"> 
-    <div class="container">
+    <div class="container"> 
  <?$APPLICATION->IncludeComponent(
 	"bitrix:news", 
 	".default", 

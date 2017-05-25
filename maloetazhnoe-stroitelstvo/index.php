@@ -117,43 +117,25 @@ $('tr.tabread1').toggle();
             <h1 class="wow fadeIn h1css">Малоэтажное строительство</h1>
             <div class="container">
 			<div class="number_cat">		
-								Тел. +7(925) 435-24-45
-								Тел. +7(499) 755-53-43</div>
+								Тел. <a href="tel:+79254352445">+7(925) 435-24-45</a>
+								Тел. <a href="tel:+74997555343">+7(499) 755-53-43</a>
+			</div>
 <div >
 <div class="content-in-page">
 <p style="color:black;">
 
 <p>В последние годы в Москве и других городах России наблюдается стремительное развитие малоэтажного строительства. Многие люди отдают предпочтение частному дому. Несмотря на высокую цену земельного надела под возведение жилья, загородная недвижимость предлагает владельцу больше выгод, комфорта и свободы. Например, можно построить 2-этажный коттедж улучшенной планировки, возвести на участке гараж, мастерскую, баню, беседки и т. д. Есть, где развернуться!</p>
 <p>Компания BetterStroy работает в сфере малоэтажного строительства более 7 лет. Мы строим загородные дома, коттеджи, бани и дачи, нежилые постройки под ключ. В работе используем передовые технологии и современные материалы, что позволяет возводить новостройки любой площади за несколько месяцев.</p>
-            <center><div data-dspopup-id="order" style="display:inline-block" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));"><img src="/ds-comf/ds-form/images/order.png"></div><span>&nbsp;</span>
+            <center><div data-dspopup-id="order" class="btn-orange" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));">Сделать заказ</div><span>&nbsp;</span>
             <div id="order" class="ds-form dspopup-modal"></div></center>
 <p>Малоэтажное строительство ведется по готовым или индивидуальным проектам. Если был выбран второй вариант, наши архитекторы и дизайнеры помогут в разработке. Обращайтесь, мы найдем оптимальное решение в любом случае!</p>
 
 <br>  <p class="wow fadeIn likeh4">Примеры наших работ:</p>
 		<div class="razd">
-		<div class="rd-item">
-					<a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">
-						<img src="/img/nikolo-pyatnickoe/1.JPG">
-					</a>
-					<a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">строительство <br />дома в коттеджном <br /> посёлке <br />Николо-Пятницкое</a>
-				</div>
-				<div class="rd-item">
-					<a href="/maloetazhnoe-stroitelstvo/isaevo/">
-						<img src="/img/isaevo/1.jpg">
-					</a>
-					<a href="/maloetazhnoe-stroitelstvo/isaevo/">строительство <br />под ключ, <br /> частного дома  <br />д.Исаево</a>
-				</div>
-		 
-		
-				<div class="rd-item">
-					<a href="/maloetazhnoe-stroitelstvo/yamishevo/">
-						<img src="/img/yamishevo/1.jpg">
-					</a>
-					<a href="/maloetazhnoe-stroitelstvo/yamishevo/">строительство <br />под ключ, <br /> частного дома  <br />д.Ямищево</a>
-				
-		 </div></div>
+			<?include("maloetaznoe-stroitelstvo-primeri.php");?>
+		</div>
     <br>
-<h2 style="font-size:16px;margin-bottom:0px">С чего начинается малоэтажное строительство?</h2>
+<h2 style="font-size:16px;margin-bottom:0px">С чего начинается малоэтажное строительство?</h2><br>
 <div class="job-type-block">
   <div class="job-type"><a href="/maloetazhnoe-stroitelstvo/zemlyanye-raboty/">Земляные работы</a></div>
   <div class="job-type"><a href="/maloetazhnoe-stroitelstvo/fundament/">Фундамент</a></div>
@@ -182,14 +164,11 @@ $('tr.tabread1').toggle();
 </ul>
 </p>
 
-
-
 <!-- Таблица цен -->
-
 <div>
     <div class="price_title">Коттеджное строительство</div>
     <table class="table table-bordered table-condensed table-hover table_pr" style="color:black; text-align:center;">
-    <thead style="background-color:orange;">
+    <thead>
     <tr>
     <th>№ п/п 
 </th>
@@ -618,56 +597,10 @@ $('tr.tabread1').toggle();
 </tbody>
 </table>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div> </div>
    
 </div>
-<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery">
-    <!-- The container for the modal slides -->
-    <div class="slides"></div>
-    <!-- Controls for the borderless lightbox -->
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-    <div class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" aria-hidden="true">&times;</button>
-                    <h4 class="modal-title"></h4>
-                </div>
-                <div class="modal-body next"></div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default pull-left prev">
-                       
-                        Назад
-                    </button>
-                    <button type="button" class="btn btn-primary next">
-                        Далее
-                        
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
         </div>
     </div>
 

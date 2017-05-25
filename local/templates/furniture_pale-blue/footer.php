@@ -15,14 +15,14 @@ IncludeTemplateLangFile(__FILE__);
     padding-left: 75px;
 ">
             <ul class="nav sf-menu clearfix"> 
-                <li class="active"><a href="http://betterstroy.ru/">Главная</a></li>
-                <li><a href="http://betterstroy.ru/o-kompanii/">О компании</a></li>
-                <li><a href="http://betterstroy.ru#services">Услуги</a></li>
-        <li><a href="http://betterstroy.ru/prices/">Цены</a></li>
-                <li><a href="http://betterstroy.ru/vyezd-zamerschik/">Вызов замерщика</a></li>
-                <li><a href="http://betterstroy.ru/otzyvy/">Отзывы</a></li>
-                <li><a href="http://betterstroy.ru/news/">Новости</a></li>
-                <li><a href="http://betterstroy.ru/contact/">Контакты</a></li>
+                <li><a href="/">Главная</a></li>
+                <li><a href="/o-kompanii/">О компании</a></li>
+                <li><a href="/#services">Услуги</a></li>
+        <li><a href="/prices/">Цены</a></li>
+                <li><a href="/vyezd-zamerschik/">Вызов замерщика</a></li>
+                <li><a href="/otzyvy/">Отзывы</a></li>
+                <li><a href="/news/">Новости</a></li>
+                <li><a href="/contact/">Контакты</a></li>
             </ul>
     </nav>
 </section>
@@ -34,7 +34,7 @@ IncludeTemplateLangFile(__FILE__);
             <div class="row" style="    border-top: 1px solid #94a7b2;margin-left: 20px;margin-right: 20px;">
                 <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12">
                
-                      <p class="cop">© 2017 «BetterStroy» | <a class="vk" href="http://vk.com/club71069464">Мы Вконтакте</a></p>
+                      <p class="cop">© 2017 «BetterStroy» | <a class="vk" href="http://vk.com/club71069464" target="_blank">Мы Вконтакте</a></p>
            
                     <!--LiveInternet counter-->
                     <script type="text/javascript">
@@ -67,8 +67,10 @@ IncludeTemplateLangFile(__FILE__);
 
                 <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                    <div class="sf-contact-item">
-                     <button onclick="void(yaCounter29696835.reachGoal('zakaz-zv')); void(ga('send', 'pageview', '/virtual/zakaz-zv/'));" data-dspopup-id="callme" class="btn callme-bt"></button>
-                     <button onclick="" data-dspopup-id="vopros" class="btn vopros-bt"></button>
+                     <!-- <button onclick="void(yaCounter29696835.reachGoal('zakaz-zv')); void(ga('send', 'pageview', '/virtual/zakaz-zv/'));" data-dspopup-id="callme" class="btn callme-bt"></button>
+                     <button onclick="" data-dspopup-id="vopros" class="btn vopros-bt"></button> -->
+                     <div class="btn btn-icon " onclick="void(yaCounter29696835.reachGoal('zakaz-zv')); void(ga('send', 'pageview', '/virtual/zakaz-zv/'));"  data-dspopup-id="callme"> <i class="fa fa-phone"></i> Перезвоните мне</div>
+                      <div class="btn btn-icon" data-dspopup-id="vopros"> <i class="fa fa-question-circle-o"></i> Задать вопрос</div>
                      <div style="clear:both;"></div>
                 </div>
                 </div>
@@ -107,7 +109,7 @@ IncludeTemplateLangFile(__FILE__);
   });
   });
 </script>
-<div id="toTop" > ^ Наверх </div>
+<div id="toTop" ><img src="/img/naverh.png" alt="" width="50"></div>
 <script> 
 var $buoop = {vs:{i:7,f:3.5,o:10.6,s:1,n:9}} 
 $buoop.ol = window.onload; 

@@ -4,9 +4,25 @@ $APPLICATION->SetPageProperty("title", "Услуги по дизайну и пр
 $APPLICATION->SetTitle("Дизайн и проектирование");
 $APPLICATION->SetPageProperty("description", "Компания Better Story занимается ремонтно-отделочными и малоэтажными строительными работами: фасадные работы,  отделка и ремонт квартир. Дизайн и проектирование. Наш телефон в Москве: +7 (499) 755-53-43");
 
-?><!--content-->
-
-
+?>
+<style>
+.video-responsive { 
+ margin-top:20px;
+  position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow:hidden; 
+} 
+.video-responsive iframe, 
+.video-responsive object, 
+.video-responsive embed {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%;
+  height: 100%; 
+}</style>
+<!--content-->
 <div class="content"> 
    
 
@@ -15,167 +31,148 @@ $APPLICATION->SetPageProperty("description", "Компания Better Story за
             <h1 class="wow fadeIn h1css">Проектирование и дизайн от профессионалов</h1>
             <div class="container">
 			<div class="number_cat">		
-								Тел. +7(925) 435-24-45
-								Тел. +7(499) 755-53-43</div>
-   <div class="container content-in-page">
-     <p>Компания BetterStroy разрабатывает дизайнерские решения и проектную документацию для объектов различного назначения. В каждом случае учитываются индивидуальные пожелания клиента, действующие строительные нормы и правила. Используя мировой опыт в архитектуре и дизайне, мы создаем целостный и комфортный интерьер квартир, коттеджей, офисов, торговых помещений, ресторанов.</p>
-    
- <br>  <p class="wow fadeIn likeh4">Примеры наших работ:</p>
-    <br>
-    <!-- The container for the list of example images -->
-   <div id="links">
-    <a href="../img/diz1.jpg" title="" data-gallery>
-         <img src="../img/diz1_small.jpg">
-    </a>
-    <a href="../../img/diz2.jpg" title="" data-gallery>
-        <img src="../img/diz2_small.jpg">
-    </a>
-    <a href="../img/diz3.jpg" title="" data-gallery>
-         <img src="../img/diz3_small.jpg">
-    </a>
-    <a href="../img/diz4.jpg" title="" data-gallery>
-       <img src="../img/diz4_small.jpg">
-    </a>
-    <a href="../img/diz5.jpg" title="" data-gallery>
-         <img src="../img/diz5_small.jpg">
-    </a>
-    <a href="../img/diz6.jpg" title="" data-gallery>
-         <img src="../img/diz6_small.jpg">
-    </a>
-    <a href="../img/diz7.jpg" title="" data-gallery>
-        <img src="../img/diz7_small.jpg">
-    </a>
-    <a href="../img/diz8.jpg" title="" data-gallery>
-         <img src="../img/diz8_small.jpg">
-    </a>
-     <a href="../img/diz9.jpg" title="" data-gallery>
-        <img src="../img/diz9_small.jpg">
-    </a>
-    <a href="../img/diz10.jpg" title="" data-gallery>
-        <img src="../img/diz10_small.jpg">
-    </a>
-    <a href="../img/diz11.jpg" title="Описание" data-gallery>
-         <img src="../img/diz11_small.jpg">
-    </a>
-    <a href="../img/diz12.jpg" title="Описание" data-gallery>
-         <img src="../img/diz12_small.jpg">
-    </a>
-    <a href="../img/diz13.jpg" title="Описание" data-gallery>
-         <img src="../img/diz13_small.jpg">
-    </a>
-    <a href="../img/diz14.jpg" title="Описание" data-gallery>
-         <img src="../img/diz14_small.jpg">
-    </a>
-    <a href="../img/diz15.jpg" title="Описание" data-gallery>
-         <img src="../img/diz15_small.jpg">
-    </a>
-    <a href="../img/diz16.jpg" title="Описание" data-gallery>
-         <img src="../img/diz16_small.jpg">
-    </a>
-    <a href="../img/diz17.jpg" title="Описание" data-gallery>
-         <img src="../img/diz17_small.jpg">
-    </a>
-    <a href="../img/diz18.jpg" title="Описание" data-gallery>
-         <img src="../img/diz18_small.jpg">
-    </a>
-    
-    
+								Тел. <a href="tel:+79254352445">+7(925) 435-24-45</a>
+								Тел. <a href="tel:+74997555343">+7(499) 755-53-43</a>
+			</div>
+				<div class="container content-in-page">
+					 <p>Компания BetterStroy разрабатывает дизайнерские решения и проектную документацию для объектов различного назначения. В каждом случае учитываются индивидуальные пожелания клиента, действующие строительные нормы и правила. Используя мировой опыт в архитектуре и дизайне, мы создаем целостный и комфортный интерьер квартир, коттеджей, офисов, торговых помещений, ресторанов.</p>
+				<center><div data-dspopup-id="order"  class="btn-orange" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));">Сделать заказ</div>
+				<div id="order" class="ds-form dspopup-modal"></div></center><br>
+
+				<p class="wow fadeIn likeh4">Примеры наших работ:</p>
+
+    <div class="razd">
+		<?//Подключаем единое порфтолио фасадных работ.
+		include("dizayn-raboty-primery.php");?>
+	</div>
+<h2>Направления нашей деятельности:</h2>
+
+
+
+<div class="job-type-block-new">
+  <div class="job-type-new job-type-c1">
+  <a href="/diz/dizayn-intererov/">
+    <div class="job-type-new-icon">
+        <img src="/img/fasadnye-raboty/1.png">
     </div>
-    <br>
+    <div class="job-type-new-desc">
+        <span>Дизайн интерьеров</span>
+		<br>
+        <ul style="padding-top:20px;">
+			<li>Квартир</li>
+			<li>Дома</li>
+			<li>Таунхаусы</li>
+			<li>Коттеджи</li>
+		
+		</ul>
+    </div>
+    </a>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="job-type-new job-type-c2">
+  <a href="/diz/dizayn-obshchestvennykh-intererov/">
+    <div class="job-type-new-icon">
+        <img src="/img/fasadnye-raboty/2.png">
+    </div>
+    <div class="job-type-new-desc">
+        <span style="font-size:15px;">Дизайн общественных интерьеров</span>
+		<ul style="padding-top:20px;">
+			<li>Офисы</li>
+			<li>Магазины</li>
+			<li>Кафе</li>
+			<li>Спортивные центры</li>
+		
+		</ul>
+    </div>
+    </a>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="job-type-new job-type-c1">
+  <a href="/diz/landshaftnyy-dizayn/">
+    <div class="job-type-new-icon">
+        <img src="/img/fasadnye-raboty/3.png">
+    </div>
+    <div class="job-type-new-desc">
+        <span>Ландшафтный дизайн</span>
+        
+    </div>
+    </a>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="job-type-new job-type-c2">
+  <a href="/diz/dizayn-fasadov/">
+    <div class="job-type-new-icon">
+        <img src="/img/fasadnye-raboty/4.png">
+    </div>
+    <div class="job-type-new-desc">
+        <span>Дизайн фасадов</span>
+		<ul style="padding-top:20px;">
+			<li>Частные дома</li>
+			<li>Адмнистративные здания</li>
+			
+		</ul>
+    </div>
+    </a>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="job-type-new job-type-c1">
+  <a href="/diz/3d-vizualizatsiya/">
+    <div class="job-type-new-icon">
+        <img src="/img/fasadnye-raboty/5.png">
+    </div>
+    <div class="job-type-new-desc">
+        <span>3D-визуализация</span>
+        <ul style="padding-top:20px;">
+			<li>Квартир</li>
+			<li>Дома</li>
+			<li>Таунхаусы</li>
+			<li>Коттеджи</li>
+		
+		</ul>
+    </div>
+    </a>
+    <div style="clear:both;"></div>
+  </div>
+  <div class="job-type-new job-type-c2">
+  <a href="/diz/dekorirovanie-interera/">
+    <div class="job-type-new-icon">
+        <img src="/img/fasadnye-raboty/6.png">
+    </div>
+    <div class="job-type-new-desc">
+        <span>Декорирование интерьера</span>
+        <ul style="padding-top:20px;">
+			<li>Шторы</li>
+			<li>Панно из мозайки</li>
+			<li>Витражи</li>
+			<li>Изголовья кровати</li>
+			
+		</ul>
+    </div>
+    </a>
+    <div style="clear:both;"></div>
+  </div>
+</div>    
 
-
-     <p><span style='font-weight:bold'>Направления нашей деятельности:</span></p>
-     <ul>
-     <li>подготовка дизайн-проекта;</li>
-     <li>архитектурное проектирование;</li>
-     <li>разработка рабочей документации;</li>
-     <li>проектирование ландшафтного дизайна.</li>
-     </ul>
-     <p>Специалисты имеют профильное образование и творчески подходят к реализации поставленных задач. Они разработают авторскую концепцию, согласуют ее с клиентом, правильно перенесут на схемы, чертежи и будут сопровождать проект до полного претворения в жизнь.</p> 
-     
-    <table class="table table-bordered table-condensed table-hover" style="color:black; text-align:center;">
-    <thead style="background-color:orange;">
-    <tr><th>Наименование</th>
-    <th>Стоимость работ</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr><td>Эскизный проект</td>
-    <td>от 150 руб/м кв.</td>
-    </tr>
-    <tr><td><a href="http://proproekt.su/files/ar.pdf" rel="nofollow">Архитектурный проект </a></td>
-    <td>от 250 руб/м кв.</td>
-    </tr>
-    <tr><td><a href="http://proproekt.su/files/kr.pdf" rel="nofollow">Конструктивный проект</a></td>
-    <td>от 350 руб/м кв.</td>
-    </tr>
-    <tr><td>Дизайн интерьера</td>
-    <td>от 1200 руб/м кв.</td>
-    </tr>
-    <tr><td>Проект наружных сетей водопровода и канализации</td>
-    <td>от 20 000 руб.</td>
-    </tr>
-    <tr><td>Проект наружных сетей электроснабжения</td>
-    <td>от 20 000 руб.</td>
-    </tr>
-    </tbody>
-    </table>
-
-     <h2>Преимущества сотрудничества с BetterStroy</h2>
-     <p>Заказчики компании — частные лица, малые, средние и крупные фирмы. Сотни клиентов отдали нам предпочтение, потому что мы:</p>
-     <ul>
-     <li>ценим время заказчика — не срываем сроки и внимательно относимся к деталям;</li>
-     <li>официально оформляем отношения с клиентом и строго соблюдаем договоренности;</li>
-     <li>профессионально и ответственно подходим к работе;</li>
-     <li>разрабатываем уникальные проекты;</li>
-     <li>оптимизируем расходы клиента.</li>
-     </ul>
-     <p>Обращайтесь, чтобы получить высокий уровень сервиса и комплексное обслуживание. Мы разработали несколько пакетов услуг для заказчиков с разными запросами. Любой клиент выбирает оптимальное решение — отдельные услуги или комплекс проектирования с авторским и техническим контролем, выбором мебели, предметов интерьера и пр.</p>
-     <p>Позвоните по телефону +7 (499) 755-53-43 и получите подробную консультацию по всем вопросам! </p>
-   </div>
-    
-
-
-  
+			</div>
+			
+<h2>Видео:</h2>
+<div class="row">
+	<div class="col-xs-12 col-lg-6">
+		<div class="video-responsive">
+			<iframe width="auto" height="525" src="https://www.youtube.com/embed/FOfz-A9BZhE" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
+	<div class="col-xs-12 col-lg-6">
+		<div class="video-responsive">
+			<iframe width="auto" height="525" src="https://www.youtube.com/embed/crGorJms114" frameborder="0" allowfullscreen></iframe>
+		</div>
+	</div>
 </div>
-<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery">
-    <!-- The container for the modal slides -->
-    <div class="slides"></div>
-    <!-- Controls for the borderless lightbox -->
-    <h3 class="title"></h3>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-    <div class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" aria-hidden="true">×</button>
-                    <h4 class="modal-title"></h4>
-                </div>
-                <div class="modal-body next"></div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default pull-left prev">
-                       
-                        Назад
-                    </button>
-                    <button type="button" class="btn btn-primary next">
-                        Далее
-                        
-                    </button>
-                </div>
-            </div>
-        </div>
+
+			
+		</div>
     </div>
 </div>
-        </div>
-    </div>
 
-    
 
-</div>
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

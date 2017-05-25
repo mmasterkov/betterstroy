@@ -9,26 +9,21 @@ $APPLICATION->SetPageProperty("description", "Компания Better Story за
    
 
         <div class="thumb-box1">
-        <a  name="services"><div class="container"></a>
+      <div class="container">
             <h1 class="wow fadeIn h1css">Цены на наши услуги</h1>
-            <div class="container">
+            
 			<div class="number_cat">		
-								Тел. +7(925) 435-24-45
-								Тел. +7(499) 755-53-43</div>
-<div ><p style="color:black;"> 
+								Тел. <a href="tel:+79254352445">+7(925) 435-24-45</a>
+								Тел. <a href="tel:+74997555343">+7(499) 755-53-43</a>
+			</div>
 
-
-
-</p></div>
-
-	</div>
     <br>
 
 
 <div>
 	<div class="price_title">Цены на <a href="/fasadnye-raboty/">фасадные работы</a></div>
 	 <table class="table table-bordered table-condensed table-hover" style="color:black; text-align:center;">
-	<thead style="background-color:orange;">
+	<thead>
 	<tr>
 	<th width="40px">№ п/п 
 </th>
@@ -86,7 +81,7 @@ $APPLICATION->SetPageProperty("description", "Компания Better Story за
 <div>
 	<div class="price_title">Цены на <a href="/otdelochnye-raboty/">отделочные работы</a></div>
 	<table class="table table-bordered table-condensed table-hover" style="color:black; text-align:center;">
-	<thead style="background-color:orange;">
+	<thead>
 	<tr>
 	<th>№ п/п 
 </th>
@@ -1495,10 +1490,7 @@ $APPLICATION->SetPageProperty("description", "Компания Better Story за
 
     </div>
 
-    
-
-
-</div>
+  
 
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

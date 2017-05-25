@@ -74,97 +74,23 @@ $(document).ready(function(){
             <h1 class="wow fadeIn h1css">Отделочные работы от компании BetterStroy в Москве</h1>
             <div class="container">
 			<div class="number_cat">		
-								Тел. +7(925) 435-24-45
-								Тел. +7(499) 755-53-43</div>
+								Тел. <a href="tel:+79254352445">+7(925) 435-24-45</a>
+								Тел. <a href="tel:+74997555343">+7(499) 755-53-43</a></div>
 <div > <div class="content-in-page">
 <p>Компания BetterStroy предлагает выполнение отделочных работ «с нуля». Мы работаем в жилых домах, коттеджах, офисах. Услуги, которые мы предоставляем, направлены на улучшение вида помещения, создание стильного интерьера. Чистовые и черновые отделочные работы, проведенный нашими специалистами, повышают эксплуатационные характеристики здания, делая его более удобным для проживания. Мы предлагаем отделочные работы высокого класса по доступным расценкам.</p>
-            <center><div data-dspopup-id="order" style="display:inline-block" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));"><img src="/ds-comf/ds-form/images/order.png"></div><span>&nbsp;</span>
+            <center><div data-dspopup-id="order" class="btn-orange" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));">Сделать заказ</div><span>&nbsp;</span>
             <div id="order" class="ds-form dspopup-modal"></div></center>
 
 
    <br>  <p class="wow fadeIn likeh4">Примеры наших работ:</p>
    
 
-<!--   <div class="fancyibox-title">Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево</div>
-
-	
-	<div class="fancyibox-block">
-	<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy1.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy1.jpg">
-    </a>
-
-    <a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy2.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy2.jpg">
-    </a>
-
-    <a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy4.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy4.jpg">
-    </a>
-
-    <a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy5.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy5.jpg">
-    </a>
-
-    <a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy6.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy6.jpg">
-    </a>
-
-    <a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy7.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy8.jpg">
-    </a>
-
-    <a rel="grup1" class="fancyimage fancyimage-otd" href="/img/otd/fancy9.jpg" title="Обустройство мокрого фасада с использованием, эластичной штукатурки El-Manto в коттедже; Московская область, Одинцовский район, д Ямищево">
-         <img src="/img/otd/fancy9.jpg">
-    </a>
-   </div> -->
-
-<div class="razd">
-        <div class="rd-item">
-            <a href="/otdelochnye-raboty/krasnogorsk/">
-                <img src="/img/gallery/krasnogorsk/wyUrnYZDKtU.jpg">
-            </a>
-            <a href="/otdelochnye-raboty/krasnogorsk/">ОФИС - КРАСНОГОРСК</a>
-        </div>
-
-        <div class="rd-item">
-            <a href="/otdelochnye-raboty/granatovyj-sad/">
-                <img src="/img/gallery/granatovyj-sad/AuGmIeHL5O0.jpg">
-            </a>
-            <a href="/otdelochnye-raboty/granatovyj-sad/">РЕСТОРАН "ГРАНАТОВЫЙ САД"</a>
-        </div>
-
-        <div class="rd-item">
-            <a href="/otdelochnye-raboty/d-fusion-konkovo/">
-                <img src="/img/gallery/d-fusion-konkovo/cUh_UZq5dGE.jpg">
-            </a>
-            <a href="/otdelochnye-raboty/d-fusion-konkovo/">"D-FUSION"-КОНЬКОВО</a>
-        </div>
-
-         <div class="rd-item">
-            <a href="/otdelochnye-raboty/d-fusion-novoslobodskaya/">
-                <img src="/img/gallery/d-fusion-novoslobodskaya/gRF6j9gbUy0.jpg">
-            </a>
-            <a href="/otdelochnye-raboty/d-fusion-novoslobodskaya/">"D-FUSION"-НОВОСЛОБОДСКАЯ</a>
-        </div>
-
-         <div class="rd-item">
-            <a href="/otdelochnye-raboty/galla-dance-barviha/">
-                <img src="/img/gallery/galla-dance-barviha/MBSM9qPT6oY.jpg">
-            </a>
-            <a href="/otdelochnye-raboty/galla-dance-barviha/">"GALLA DANCE"-БАРВИХА</a>
-        </div>
-
-         <div class="rd-item">
-            <a href="/otdelochnye-raboty/galla-dance-monarh/">
-                <img src="/img/gallery/galla-dance-monarh/AsyPleh61MU.jpg">
-            </a>
-            <a href="/otdelochnye-raboty/galla-dance-monarh/">"GALLA DANCE"-МОНАРХ</a>
-        </div>
-
-    </div>
+		<div class="razd">
+			<?include("otdelochnye-raboty-primery.php");?>
+		</div> 
 
 
-<h2 style="    font: 32px/32px 'Six Caps'; color: #3e3d3d;margin: 0 0 22px 0;">Виды и цены отделочных работ</h2>
+<h2>Виды и цены отделочных работ</h2>
 <p>Специалисты нашей компании осуществляют выполнение работ «под ключ», а также предоставляют отдельные услуги. Узнать стоимость каждого вида отделочных работ вы можете в прайс-листе. Комплексные работы по отделке включают:</p>
 <ul>
 <li>нанесение штукатурки. Это этап черновой отделки, который подразумевает покрытие поверхностей составом для их выравнивания, повышения их стойкости к влаге, возгоранию, увеличению их прочности. Он также необходим как подготовка к чистовой отделке; </li>
@@ -174,7 +100,7 @@ $(document).ready(function(){
 <li>отделка пола и потолка. Мы производим как чистовой, так и черновой этапы работы. Предлагаются услуги по выравниванию поверхностей, их окраске. Для потолка возможен монтаж натяжных покрытий, плиточная отделка. Чистовые отделочные работы для полов подразумевают укладку ламината, линолеума, наливного покрытия, ковролина и других востребованных материалов; </li>
 <li>фасадные работы. Это важный этап для придания внешней части здания привлекательного вида. Мы предлагаем утепление стен, их окраску, укладку облицовки из сайдинга, натурального и искусственного камня, декоративного кирпича и т. д. </li>
 </ul>
-</div> 
+
 </div>
 
 <!-- Таблица цен -->
@@ -183,7 +109,7 @@ $(document).ready(function(){
 <div>
 	<div class="price_title">Цены на отделочные работы</div>
 	<table class="table table-bordered table-condensed table-hover" style="color:black; text-align:center;width:100%;margin:0 auto">
-	<thead style="background-color:orange;">
+	<thead>
 	<tr>
 	<th>№ п/п 
 </th>
@@ -1590,40 +1516,7 @@ $(document).ready(function(){
 </div>
 
 </div>
-<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery">
-    <!-- The container for the modal slides -->
-    <div class="slides"></div>
-    <!-- Controls for the borderless lightbox -->
-    <p class="title"></p>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-    <div class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" aria-hidden="true">&times;</button>
-                    <p class="modal-title likeh4"></p>
-                </div>
-                <div class="modal-body next"></div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default pull-left prev">
-                       
-                        Назад
-                    </button>
-                    <button type="button" class="btn btn-primary next">
-                        Далее
-                        
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
  
 <div class="content-in-page">
 <p><span style='font-weight:bold'>Преимущества сотрудничества с фирмой BetterStroy:</span></p>

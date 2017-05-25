@@ -8,180 +8,29 @@ $APPLICATION->SetTitle("Фасадные работы по оптимально�
    
 
         <div class="thumb-box1">
-        <a  name="services"><div class="container"></a>
+		<div class="container">
             <h1 class="wow fadeIn h1css">Фасадные работы</h1>
-            <div class="container">
 			<div class="number_cat">		
-								Тел. +7(925) 435-24-45
-								Тел. +7(499) 755-53-43</div>
-<div class="content-in-page">
-<p>Компания BetterStroy выполняет полный спектр фасадных работ. Мы предлагаем выгодные условия сотрудничества: ознакомиться с ценами можно в прайс-листе. </p>
-<p>В процессе выполнения фасадных работ зачастую требуются утепление и облицовка стен. Для этого используются современные материалы и передовые технологии отделки, что позволяет придавать зданию стильный внешний вид.</p>
-            <center><div data-dspopup-id="order" style="display:inline-block" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));"><img src="/ds-comf/ds-form/images/order.png"></div><span>&nbsp;</span><a href="/kalkulyator/" class="order-bt" style="display:inline-block">Калькулятор</a>
-            <div id="order" class="ds-form dspopup-modal"></div></center>
-              <br>  <p class="wow fadeIn likeh4">Примеры наших работ:</p>
+								Тел. <a href="tel:+79254352445">+7(925) 435-24-45</a>
+								Тел. <a href="tel:+74997555343">+7(499) 755-53-43</a>
+			</div>
+			<div class="content-in-page">
+				<p>Компания BetterStroy выполняет полный спектр фасадных работ. Мы предлагаем выгодные условия сотрудничества: ознакомиться с ценами можно в прайс-листе. </p>
+				
+				<p>В процессе выполнения фасадных работ зачастую требуются утепление и облицовка стен. Для этого используются современные материалы и передовые технологии отделки, что позволяет придавать зданию стильный внешний вид.</p>
+				
+				<center><div data-dspopup-id="order"  class="btn-orange" onclick="void(yaCounter29696835.reachGoal('klikzacaz'));">Сделать заказ</div><span>&nbsp;</span><a href="/kalkulyator/" class="btn-orange" style="display:inline-block">Калькулятор</a>
+				<div id="order" class="ds-form dspopup-modal"></div></center><br>
+
+				<p class="wow fadeIn likeh4">Примеры наших работ:</p>
 
     <div class="razd">
-			<div class="rd-item">
-            <a href="/fasadnye-raboty/adm_res/">
-                <img src="/img/adm_res/1.JPG">
-            </a>
-            <a href="/fasadnye-raboty/adm_res/">Адм. здание <br>Сходненской РЭС</a>
-        </div>
-			<div class="rd-item">
-            <a href="/fasadnye-raboty/perepechino/">
-                <img src="/img/perepechino/1.JPG">
-            </a>
-            <a href="/fasadnye-raboty/perepechino/">Складской комплекс<br>Перепечино</a>
-        </div>
-		<div class="rd-item">
-            <a href="/fasadnye-raboty/zelenograd-tc/">
-                <img src="/img/zelenograd-tc/1.JPG">
-            </a>
-            <a href="/fasadnye-raboty/zelenograd-tc/">Вент. фасад<br>ТЦ г. Зеленоград</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/znaika/">
-                <img src="/fasadnye-raboty/znaika/img/fancy3.jpg">
-            </a>
-            <a href="/fasadnye-raboty/znaika/">Школа-детский сад знайка</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/aksinyino/">
-                <img src="/img/gallery/aksinyino/2015-07-03-820.jpg">
-            </a>
-            <a href="/fasadnye-raboty/aksinyino/">Аксиньино</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/veljyaminovo/">
-                <img src="/img/gallery/veljyaminovo/IMG-20150618-WA0012.jpg">
-            </a>
-            <a href="/fasadnye-raboty/veljyaminovo/">Вельяминово</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/dedyosheno/">
-                <img src="/img/gallery/dedyosheno/RcvSpy-jsUo.jpg">
-            </a>
-            <a href="/fasadnye-raboty/dedyosheno/">Дедёшено</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/krivorozhskaya/">
-                <img src="/img/gallery/krivorozhskaya/IMG-20160217-WA0000.jpg">
-            </a>
-            <a href="/fasadnye-raboty/krivorozhskaya/">Криворожская 17а</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/yamischevo/">
-                <img src="/img/otd/fancy8.jpg">
-            </a>
-            <a href="/fasadnye-raboty/yamischevo/">Ямищево</a>
-        </div>
-
-    </div>
-
-<!-- <div class="fancyibox-title">Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А</div>
-
-<div class="fancyibox-block">
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy1.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy1.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy2.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy2.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy3.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy3.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy4.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy4.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy5.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy5.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy6.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy6.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy7.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy7.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy8.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy8.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy9.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy9.jpg">
-</a>
-<a rel="grup1" class="fancyimage fancyimage-otd" href="/img/fasad/fancy10.jpg" title="Ремонт фасада; Школа-детский сад Знайка,г. Москва, б-р. Матроса Железняка, д. 29А">
-         <img src="/img/fasad/fancy10.jpg">
-</a>
-</div> -->
-
-<h2 style="font-size:16px;margin-bottom:0px">Типы фасадных работ</h2>
+		<?//Подключаем единое порфтолио фасадных работ.
+		include("fasadnye-raboty-primery.php");?>
+	</div>
+<h2>Типы фасадных работ</h2>
 
 
-<!--
-<div class="job-type-block">
-  <div class="job-type"><a href="/fasadnye-raboty/montazh/">Монтаж вентилируемых фасадов</a></div>
-  <div class="job-type"><a href="/fasadnye-raboty/rekonstrukciya/">Реконструкция фасадов</a></div>
-  <div class="job-type"><a href="/fasadnye-raboty/pokraska/">Покраска фасадов</a></div>
-  <div class="job-type"><a href="/fasadnye-raboty/remont/">Капитальный ремонт фасадов</a></div>
-  <div class="job-type"><a href="/fasadnye-raboty/uteplenie/">Утепление фасадов</a></div>
-  <div class="job-type"><a href="/fasadnye-raboty/mokryj-fasad/">Мокрый фасад</a></div>
-</div>
-
-<div style="clear:both;"></div>
--->
-
-<style>
-    .job-type-block-new .job-type-new {
-        float: left;
-        width: 33.3%;
-        padding: 20px;
-        min-height: 190px;
-        width: 383px;
-    }
-    .job-type-c1 {
-        background-color: #fd881b;
-    }
-    .job-type-c2 {
-        background-color: #ffa857;
-    }
-    .job-type-block-new .job-type-new a {
-        color: black;
-        font-weight: normal;
-            font-size: 14px;
-    }
-    .job-type-block-new .job-type-new span {
-        color: black;
-        font-weight: bold;
-        font-size: 16px;
-    }
-    .job-type-block-new .job-type-new p {
-        margin-top: 5px;
-        line-height: 17px;
-        margin-bottom: 0px;
-    }
-    .job-type-block-new .job-type-new .job-type-new-icon {
-        float: left;
-        width: 20%;
-    }
-    .job-type-block-new .job-type-new .job-type-new-desc {
-        float: right;
-        width: 80%;
-    }
-    @media (max-width: 992px) {
-        .job-type-block-new .job-type-new {
-            float: none;
-            margin: 0 auto;
-        }
-    }
-
-    @media (max-width: 460px) {
-        .job-type-block-new .job-type-new {
-            float: none;
-            width: 100%;
-            margin: 0 auto;
-        }
-    }
-</style>
 
 <div class="job-type-block-new">
   <div class="job-type-new job-type-c1">
@@ -261,7 +110,7 @@ $APPLICATION->SetTitle("Фасадные работы по оптимально�
 
 <div style="clear:both;"></div>
 
-<p>Сегодня строительный рынок предлагает большой выбор отделочных материалов, а также готовых технологических решений для декорирования фасадов. Однако наиболее востребованными среди покупателей являются следующие виды облицовки:</p>
+<p style="margin-top:20px;">Сегодня строительный рынок предлагает большой выбор отделочных материалов, а также готовых технологических решений для декорирования фасадов. Однако наиболее востребованными среди покупателей являются следующие виды облицовки:</p>
 <ul>
 <li><span style='font-weight:bold'>фасадные работы с использованием декоративного кирпича</span>. Данный материал не только отлично сохраняет тепло, но и не подвержен выцветанию и выгоранию. Единственным его минусом является высокая стоимость;</li>
 <li><span style='font-weight:bold'>штукатурная отделка под покраску и «мокрый фасад»</span>. Такие смеси позволяют выравнивать стены, а также создавать стильные фактурные поверхности. Как правило, используются известковые и цементно-песчаные растворы. Фасадные работы с применением штукатурки — трудоемкий процесс, требующий опыта;</li>
@@ -275,8 +124,8 @@ $APPLICATION->SetTitle("Фасадные работы по оптимально�
 
 <div>
 
-    <table class="table table-bordered table-condensed table-hover table_pr" style="color:black; text-align:center;">
-    <thead style="background-color:orange;">
+   <table class="table table-bordered table-condensed table-hover" style="color:black; text-align:center;width:100%;margin:0 auto">
+    <thead>
     <tr>
     <th>№ п/п 
 </th>
@@ -331,7 +180,7 @@ $APPLICATION->SetTitle("Фасадные работы по оптимально�
 
 </div>  
 
-<h2 style="font-size:16px;margin-bottom:0px">Преимущества сотрудничества</h2>
+<h2>Преимущества сотрудничества</h2>
 <p>Компания BetterStroy предлагает комплексный ремонт, а также фасадные работы не только в Москве, но и области. Наши преимущества:</p>
 <ul>
 <li>заключение договора;</li>
@@ -342,55 +191,12 @@ $APPLICATION->SetTitle("Фасадные работы по оптимально�
 <li>бесплатное составление сметы;</li>
 <li>высокое качество отделочных работ.</li>
 </ul>
-<p>Получить дополнительную информацию и уточнить расценки на фасадные работы можно, позвонив нашим специалистам по телефону в Москве +7 (925) 435-24-45.</p>
+<p>Получить дополнительную информацию и уточнить расценки на фасадные работы можно, позвонив нашим специалистам по телефону в Москве <a href="tel:+79254352445">+7 (925) 435-24-45</a>.</p>
 </div>
 
-   
-</div>
-<!-- The Bootstrap Image Gallery lightbox, should be a child element of the document body -->
-<div id="blueimp-gallery" class="blueimp-gallery">
-    <!-- The container for the modal slides -->
-    <div class="slides"></div>
-    <!-- Controls for the borderless lightbox -->
-    <p class="title"></p>
-    <a class="prev">‹</a>
-    <a class="next">›</a>
-    <a class="close">×</a>
-    <a class="play-pause"></a>
-    <ol class="indicator"></ol>
-    <!-- The modal dialog, which will be used to wrap the lightbox content -->
-    <div class="modal fade">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" aria-hidden="true">&times;</button>
-                    <p class="modal-title likeh4"></p>
-                </div>
-                <div class="modal-body next"></div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-default pull-left prev">
-                       
-                        Назад
-                    </button>
-                    <button type="button" class="btn btn-primary next">
-                        Далее
-                        
-                    </button>
-                </div>
-            </div>
-        </div>
+			</div>
+		</div>
     </div>
-</div>
-
-
-
-
-        </div>
-    </div>
-
-    
-
-
 </div>
 
 

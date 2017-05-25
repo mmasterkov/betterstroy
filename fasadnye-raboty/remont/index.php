@@ -18,12 +18,21 @@ $APPLICATION->SetPageProperty("keywords", "капитальный ремонт �
 					Примеры наших работ:
 				</p>
 				<div class="razd">
-					<div class="rd-item">
- <a href="/fasadnye-raboty/perepechino/"> <img src="/img/perepechino/1.JPG"> </a> <a href="/fasadnye-raboty/perepechino/">Складской комплекс<br>
-						Перепечино</a>
-					</div>
-					<div class="rd-item">
- <a href="/fasadnye-raboty/dedyosheno/"> <img src="/img/gallery/dedyosheno/RcvSpy-jsUo.jpg"> </a> <a href="/fasadnye-raboty/dedyosheno/">Дедёшено</a>
+					<div class="ds-raboti">
+						<a href="/fasadnye-raboty/perepechino/" class="dsrb-item">
+							<div class="dsrb-img"><img src="/img/perepechino/1.JPG"></div>
+							<div class="dsrb-info">Складской комплекс<br>Перепечино</div>
+						</a>
+						
+						<a href="/fasadnye-raboty/dedyosheno/" class="dsrb-item">
+							<div class="dsrb-img"><img src="/img/gallery/dedyosheno/RcvSpy-jsUo.jpg"></div>
+							<div class="dsrb-info">Дедёшено</div>
+						</a>
+						
+						<a href="/fasadnye-raboty/plyushchikha-44-2-kapitalnyy-remont-fasada/" class="dsrb-item">
+							<div class="dsrb-img"><img src="/img/gallery/plyushchikha/2.JPG"></div>
+							<div class="dsrb-info">г. Москва, ул, Плющиха, д. 44/2</div>
+						</a>
 					</div>
 				</div>
 				 <style>
@@ -31,17 +40,7 @@ $APPLICATION->SetPageProperty("keywords", "капитальный ремонт �
     height: 210px;
     width: 281px;
 }
-</style> <!--				<div class="razd cr">
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/remont/1.jpg"> <img alt="цены на ремонт фасадов" src="/img/gallery/remont/1.jpg"> </a>
-					</div>
-				<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/remont/2.jpg"> <img alt="капитальный ремонт фасадов зданий цена" src="/img/gallery/remont/2.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/remont/3.jpg"> <img alt="сколько стоит капитальный ремонт фасадов зданий" src="/img/gallery/remont/3.jpg"> </a>
-					</div>
-				</div> -->
+</style>
 				<h2>Особенности капитального ремонта фасадов</h2>
 				<p>
 					 Данный вид ремонта отличается от косметического тем, что комплекс работ, который он в себя включает, определяется в индивидуальном порядке и зависит от нескольких факторов (цель, изначальное состояние строения, его тип и т. д.).
@@ -126,14 +125,14 @@ $APPLICATION->SetPageProperty("keywords", "капитальный ремонт �
 					 По любым вопросам, а также для оформления заказа обращайтесь по телефону.
 				</p>
 				<ul class="perilink">
-					<li><a href="http://betterstroy.ru/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
-					<li><a href="http://betterstroy.ru/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
-					<li><a href="http://betterstroy.ru/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ </a></li>
-					<li><a href="http://betterstroy.ru/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
-					<li><a href="http://betterstroy.ru/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД </a></li>
+					<li><a href="/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
+					<li><a href="/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
+					<li><a href="/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ </a></li>
+					<li><a href="/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
+					<li><a href="/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД </a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
 </div>
- <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

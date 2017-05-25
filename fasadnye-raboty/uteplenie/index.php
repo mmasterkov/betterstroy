@@ -16,37 +16,38 @@ $APPLICATION->SetPageProperty("keywords", "утепление фасадов ц�
 			
 
 <p class="wow fadeIn likeh4">Примеры наших работ:</p>
-    <div class="razd">
+		<div class="razd">
+			<div class="ds-raboti">
+		
+			<a href="/fasadnye-raboty/aksinyino/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/aksinyino/2015-07-03-820.jpg"></div>
+				<div class="dsrb-info">Аксиньино</div>
+			</a>
+      
+	  
+			<a href="/fasadnye-raboty/veljyaminovo/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/veljyaminovo/IMG-20150618-WA0012.jpg"></div>
+				<div class="dsrb-info">Вельяминово</div>
+			</a>
+						
 			
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/aksinyino/">
-                <img src="/img/gallery/aksinyino/2015-07-03-820.jpg">
-            </a>
-            <a href="/fasadnye-raboty/aksinyino/">Аксиньино</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/veljyaminovo/">
-                <img src="/img/gallery/veljyaminovo/IMG-20150618-WA0012.jpg">
-            </a>
-            <a href="/fasadnye-raboty/veljyaminovo/">Вельяминово</a>
-        </div>
-        
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/krivorozhskaya/">
-                <img src="/img/gallery/krivorozhskaya/IMG-20160217-WA0000.jpg">
-            </a>
-            <a href="/fasadnye-raboty/krivorozhskaya/">Криворожская 17а</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/yamischevo/">
-                <img src="/img/otd/fancy8.jpg">
-            </a>
-            <a href="/fasadnye-raboty/yamischevo/">Ямищево</a>
-        </div>
-
+			<a href="/fasadnye-raboty/krivorozhskaya/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/krivorozhskaya/IMG-20160217-WA0000.jpg"></div>
+				<div class="dsrb-info">Криворожская 17а</div>
+			</a>
+			
+			<a href="/fasadnye-raboty/yamischevo/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/otd/fancy8.jpg"></div>
+				<div class="dsrb-info">Ямищево</div>
+			</a>
+			
+			<a href="/fasadnye-raboty/plyushchikha-44-2-kapitalnyy-remont-fasada/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/plyushchikha/2.JPG"></div>
+				<div class="dsrb-info">г. Москва, ул, Плющиха, д. 44/2</div>
+			</a>
+			
+		</div>	
     </div>
-
-
 
 			 <style>
   .cr .rd-item > a > img {
@@ -54,17 +55,6 @@ $APPLICATION->SetPageProperty("keywords", "утепление фасадов ц�
     width: 281px;
 }
 </style>
-			<!--<div class="razd cr">
-				<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/uteplenie/1.jpg"> <img alt="утепление фасадов цены" src="/img/gallery/uteplenie/1.jpg"> </a>
-				</div>
-				<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/uteplenie/2.jpg"> <img alt="цены на утепление фасадов" src="/img/gallery/uteplenie/2.jpg"> </a>
-				</div>
-				<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/uteplenie/3.jpg"> <img alt="сколько стоит утепление фасадов" src="/img/gallery/uteplenie/3.jpg"> </a>
-				</div>
-			</div>-->
 			<p>
 				 Хорошо утепленные стены гарантируют комфорт и уют жилища. Этот факт косвенно подтверждают многие статистические исследования, согласно которым почти 50 % тепла дома улетучивается через стены. В связи с этим утепление фасадов становится первоочередной задачей для каждого домовладельца.
 			</p>
@@ -123,13 +113,13 @@ $APPLICATION->SetPageProperty("keywords", "утепление фасадов ц�
 				 Если вам нужны качественные услуги по теплоизоляции стен зданий в Москве и Московской области, обращайтесь в компанию BetterStroy. Мы используем в работе только сертифицированный материал и применяем современные технологии утепления фасадов. При расчете сметы мы учитываем объемы и сложность работ, пожелания заказчика к материалам, срочность выполнения проекта.
 			</p>
 			<ul class="perilink">
-<li><a href="http://betterstroy.ru/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД </a></li>
+<li><a href="/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД </a></li>
 </ul>
 		</div>
 	</div>
 </div>
- <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

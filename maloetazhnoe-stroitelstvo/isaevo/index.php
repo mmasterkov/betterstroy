@@ -11,52 +11,29 @@ $APPLICATION->SetPageProperty("description", "Компания BetterStroy вы�
 <div class="container content-in-page">
 <h1 class="wow fadeIn h1css">Строительство под ключ</h1>
 
-<div class="slider-pro" id="my-slider">
-    <div class="sp-slides">
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/1.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/2.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/3.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/4.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/5.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/6.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/7.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/8.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/9.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/10.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/11.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/12.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/13.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/isaevo/14.jpg"/></a>
-        </div>
-    </div>
-    <div style="clear:both;"></div>
+
+<?
+$arGallery = array(
+  "/img/isaevo/1.jpg",
+  "/img/isaevo/2.jpg",
+  "/img/isaevo/3.jpg",
+  "/img/isaevo/4.jpg",
+  "/img/isaevo/5.jpg",
+  "/img/isaevo/6.jpg",
+  "/img/isaevo/7.jpg",
+  "/img/isaevo/8.jpg",
+  "/img/isaevo/9.jpg",
+  "/img/isaevo/10.jpg",
+  "/img/isaevo/11.jpg",
+  "/img/isaevo/12.jpg",
+  "/img/isaevo/13.jpg",
+  "/img/isaevo/14.jpg",
+  
+);
+
+showGallery($arGallery);
+?>
+
 
 <br />
 
@@ -78,28 +55,9 @@ $APPLICATION->SetPageProperty("description", "Компания BetterStroy вы�
 
 <p class="wow fadeIn likeh4">Другие проекты</p>
 
-<div class="razd">
-    <div class="rd-item">
-          <a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">
-            <img src="/img/nikolo-pyatnickoe/1.JPG">
-          </a>
-          <a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">строительство <br>дома в коттеджном <br> посёлке <br>Николо-Пятницкое</a>
-        </div>
-        <div class="rd-item">
-          <a href="/maloetazhnoe-stroitelstvo/isaevo/">
-            <img src="/img/isaevo/1.jpg">
-          </a>
-          <a href="/maloetazhnoe-stroitelstvo/isaevo/">строительство <br>под ключ, <br> частного дома  <br>д.Исаево</a>
-        </div>
-     
-    
-        <div class="rd-item">
-          <a href="/maloetazhnoe-stroitelstvo/yamishevo/">
-            <img src="/img/yamishevo/1.jpg">
-          </a>
-          <a href="/maloetazhnoe-stroitelstvo/yamishevo/">строительство <br>под ключ, <br> частного дома  <br>д.Ямищево</a>
-        
-     </div></div>
+		<div class="razd">
+			<?include("../maloetaznoe-stroitelstvo-primeri.php");?>
+		</div>
 
 <div style="clear:both"></div>
 

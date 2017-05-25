@@ -8,77 +8,38 @@ $APPLICATION->SetPageProperty("description", "Компания BetterStroy пр�
 <!--content-->
 <div class="content"> 
 <div class="thumb-box1">
+<div class="container content-in-page">
 <h1 class="wow fadeIn h1css">Строительство дома в КП Николо-Пятницкое</h1>
 
+<?
+$arGallery = array(
+  "/img/nikolo-pyatnickoe/1.jpg",
+  "/img/nikolo-pyatnickoe/2.jpg",
+  "/img/nikolo-pyatnickoe/3.jpg",
+  "/img/nikolo-pyatnickoe/4.jpg",
+  "/img/nikolo-pyatnickoe/5.jpg",
+  "/img/nikolo-pyatnickoe/6.JPG",
+  "/img/nikolo-pyatnickoe/7.JPG",
+  "/img/nikolo-pyatnickoe/8.JPG",
+  "/img/nikolo-pyatnickoe/9.JPG",
+  "/img/nikolo-pyatnickoe/10.JPG",
+  "/img/nikolo-pyatnickoe/11.JPG",
+  "/img/nikolo-pyatnickoe/12.JPG",
+  "/img/nikolo-pyatnickoe/13.JPG",
+  "/img/nikolo-pyatnickoe/14.JPG",
+  "/img/nikolo-pyatnickoe/15.JPG",
+  "/img/nikolo-pyatnickoe/16.JPG",
+  "/img/nikolo-pyatnickoe/17.JPG",
+  "/img/nikolo-pyatnickoe/18.JPG",
+  "/img/nikolo-pyatnickoe/19.JPG",
+  "/img/nikolo-pyatnickoe/20.JPG",
+  
+);
 
-
-<div class="slider-pro" id="my-slider">
-    <div class="sp-slides">
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/1.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/2.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/3.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/4.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/5.jpg"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/6.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/7.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/8.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/9.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/10.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/11.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/12.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/13.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/14.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/15.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/15.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/17.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/18.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/19.JPG"/></a>
-        </div>
-        <div class="sp-slide">
-            <a href="#" class="fancyimage"><img class="sp-image" src="/img/nikolo-pyatnickoe/20.JPG"/></a>
-        </div>
-    </div>
-    <dir style="clear:both;"></dir>
-
+showGallery($arGallery);
+?>
 <br />
-<div class="content-in-page">
+
 <p>Компания BetterStroy выполнила строительство частного дома в коттеджном поселке Николо-Пятницкое. Возведение производилось под ключ и предусматривало осуществление закладки фундамента, устройства стен и кровли, а также отделку. Объект имеет два этажа и построен с использованием надежных экологичных материалов, таких как газобетон, дерево и кирпич. Специалисты компании выполнили утепление внешних стен для максимально эффективного энергосбережения.</p>
 <p>В своей деятельности предприятие руководствуется следующими правилами:</p>
 <ul>
@@ -87,38 +48,18 @@ $APPLICATION->SetPageProperty("description", "Компания BetterStroy пр�
 <li>Неукоснительное соблюдение сроков и сметы работ.   </li>
 </ul>
 <p>Дом, построенный в КП Николо-Пятницкое, полностью соответствует всем перечисленным критериям. </p>
-    </div>
+  
 <br />
 
 <p class="wow fadeIn likeh4">Другие проекты</p>
 
-<div class="razd">
-		<div class="rd-item">
-					<a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">
-						<img src="/img/nikolo-pyatnickoe/1.JPG">
-					</a>
-					<a href="/maloetazhnoe-stroitelstvo/nikolo-pyatnickoe/">строительство <br>дома в коттеджном <br> посёлке <br>Николо-Пятницкое</a>
-				</div>
-				<div class="rd-item">
-					<a href="/maloetazhnoe-stroitelstvo/isaevo/">
-						<img src="/img/isaevo/1.jpg">
-					</a>
-					<a href="/maloetazhnoe-stroitelstvo/isaevo/">строительство <br>под ключ, <br> частного дома  <br>д.Исаево</a>
-				</div>
-		 
-		
-				<div class="rd-item">
-					<a href="/maloetazhnoe-stroitelstvo/yamishevo/">
-						<img src="/img/yamishevo/1.jpg">
-					</a>
-					<a href="/maloetazhnoe-stroitelstvo/yamishevo/">строительство <br>под ключ, <br> частного дома  <br>д.Ямищево</a>
-				
-		 </div></div>
+		<div class="razd">
+			<?include("../maloetaznoe-stroitelstvo-primeri.php");?>
+		</div>
 
 <div style="clear:both"></div>
 
 <br /><br />
-
-</div></div>
+</div>  </div> </div>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

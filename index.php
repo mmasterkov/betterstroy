@@ -38,12 +38,12 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 		</div>
 	</div>
 
-	<div class="thumb-box1">
+	<div class="thumb-box1-main">
 		 <a name="services"></a>
 			 <a name="services"></a>
 			<h3 class="wow fadeIn">Наши услуги</h3>
 			<div class="row-custom ">
-				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 wow fadeInUp">
+				<div class="col-lg-2 col-md-4 col-sm-6 col-xs-6 wow fadeInUp">
 					<div class="thumb-pad1">
 						<div class="thumbnail">
  <figure><a href="/maloetazhnoe-stroitelstvo/"><img src="img/img_mal_main.jpg" alt=""></a></figure>
@@ -53,15 +53,15 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 								</p>
 								<p class="desc-container">
 									<span class="service-desc">Строительство жилых зданий: домов, дач, коттеджей по самым современным технологиям, в кротчайшие сроки.<br></span>
- 									<span style="font-weight: bold;">Цена договорная.</span>
- 									<span class="price-large">&nbsp;</span>
+ 									<span style="font-weight: bold;">Цена:</span>
+									<span class="price-large">договорная</span>
 								</p>
  <a href="/maloetazhnoe-stroitelstvo/" class="btn-default btn2">Подробнее</a>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.1s">
+				<div class="col-lg-2 col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.1s">
 					<div class="thumb-pad1">
 						<div class="thumbnail">
  <figure><a href="/otdelochnye-raboty/"><img src="img/img_otd_main.jpg" alt=""></a></figure>
@@ -79,7 +79,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.2s">
+				<div class="col-lg-2 col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.2s">
 					<div class="thumb-pad1">
 						<div class="thumbnail">
  <figure><a href="/fasadnye-raboty/"><img src="img/page1_pic3_new.jpg" alt=""></a></figure>
@@ -97,19 +97,8 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 						</div>
 					</div>
 				</div>
-				 <? /* <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="thumb-pad1">
-                        <div class="thumbnail">
-                            <figure><a href="/diz/"><img src="img/page1_pic4.jpg" alt=""></a></figure>
-                            <div class="caption">
-                                <p class="title"><a href="/diz/">Дизайн и проектирование</a></p>
-                                <p>Проектирование и монтаж инженерных систем. Дизайн-проект и архитектурные планировки домов, квартир и прочих сооружений.<br><span style="font-weight: bold;">Цена договорная.</span></p>
-                               <a href="/diz/" class="btn-default btn2">Подробнее</a>
-                            </div>  
-                        </div>
-                    </div>
-                </div> */ ?>
-				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
+
+				<div class="col-lg-2 col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
 					<div class="thumb-pad1">
 						<div class="thumbnail">
  <figure><a href="/monolitnye-raboty/"><img src="img/page1_pic5.png" alt=""></a></figure>
@@ -127,7 +116,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
+				<div class="col-lg-2 col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
 					<div class="thumb-pad1">
 						<div class="thumbnail">
  <figure><a href="http://montazh-mk.betterstroy.ru/"><img src="img/page1_pic6.png" alt=""></a></figure>
@@ -146,21 +135,21 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
+				<div class="col-lg-2 col-md-4 col-sm-6 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
 					<div class="thumb-pad1">
 						<div class="thumbnail">
- <figure><a href="http://montazh-mk.betterstroy.ru/"><img src="img/page1_pic6.png" alt=""></a></figure>
-							<div class="caption">
-								<p class="title">
- <a href="http://montazh-mk.betterstroy.ru/">Еще один раздел</a>
-								</p>
+							 <figure><a href="/diz/"><img src="img/page1_pic4.jpg" alt=""></a></figure>
+														<div class="caption">
+															<p class="title">
+							 <a href="/diz/">Дизайн и проектирование</a>
+						</p>
 								<p class="desc-container">
-									<span class="service-desc">Текст <br>
+									<span class="service-desc">Дизайн-проект и архитектурные планировки домов, квартир и прочих сооружений.<br>
 									<br></span>
 									<span style="font-weight: bold;">Цена:</span>
-									<span class="price-large">от 15 000 руб кв.м.</span>
+									<span class="price-large">договорная</span>
 								</p>
- <a href="http://montazh-mk.betterstroy.ru/" class="btn-default btn2">Подробнее</a>
+						<a href="/diz/" class="btn-default btn2">Подробнее</a>
 							</div>
 						</div>
 					</div>
@@ -174,25 +163,24 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 	<div class="thumb-box4">
 		<div class="container advantages" style=" background-color: #fff;">
 			<div class="row" style="margin-left: 0px; margin-right: 0px;">
-				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 wow fadeInUp">
+				<div class="col-lg-2 col-md-4 col-sm-4 col-xs-6 wow fadeInUp">
  					<figure><img src="/img/advantages/icon1.png" alt=""></figure>
 					<div class="extra-wrap">
 						<p class="title">
 							 Гибкие цены
 						</p>
-						 <!-- <p></p> -->
+						
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.1s">
+				<div class="col-lg-2 col-md-4 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.1s">
  					<figure><img src="/img/advantages/icon2.png" alt=""></figure>
 					<div class="extra-wrap">
 						<p class="title">
 							 Заключение договора
 						</p>
-						 <!-- <p></p> -->
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.15s">
+				<div class="col-lg-2 col-md-4 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.15s">
  					<figure><img src="/img/advantages/icon3.png" alt=""></figure>
 					<div class="extra-wrap">
 						<p class="title">
@@ -201,31 +189,28 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 						 <!-- <p></p> -->
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.2s">
+				<div class="col-lg-2 col-md-4 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.2s">
 					<figure><img src="/img/advantages/icon4.png" alt=""></figure>
 					<div class="extra-wrap">
 						<p class="title">
 							 Выезд на объект, осмотр и оценка - бесплатно
 						</p>
-						 <!-- <p></p> -->
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.25s">
+				<div class="col-lg-2 col-md-4 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.25s">
 					<figure><img src="/img/advantages/icon5.png" alt=""></figure>
 					<div class="extra-wrap">
 						<p class="title">
 							 Составление сметы-бесплатно
 						</p>
-						 <!-- <p></p> -->
 					</div>
 				</div>
-				<div class="col-lg-2 col-md-3 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
+				<div class="col-lg-2 col-md-4 col-sm-4 col-xs-6 wow fadeInUp" data-wow-delay="0.3s">
 					<figure><img src="/img/advantages/icon6.png" alt=""></figure>
 					<div class="extra-wrap">
 						<p class="title">
 							 Гарантийные обязательства
 						</p>
-						 <!-- <p></p> -->
 					</div>
 				</div>
 			</div>
@@ -233,10 +218,9 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 	</div>
 
 	<div class="thumb-box3">
-		 <!--<p class="title wow fadeIn"><span>Наши преимушества</span></p>-->
 		<div class="row">
 			<div class="col-lg-10 col-md-10 col-lg-offset-1 col-md-offset-1">
-				<h2 class="orange">
+				<h2>
 					 Фасадные работы
 				</h2>
 				<div class="ds-raboti ds-raboti_fasadnie">
@@ -245,7 +229,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 							<img src="/img/gallery/montazh/1.jpg">
 						</div>
 						<div class="dsrb-info">
-							 МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ
+							 Монтаж вентилируемых фасадов
 						</div>
 					</a> 
 					<a href="/fasadnye-raboty/rekonstrukciya/" class="dsrb-item">
@@ -253,7 +237,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 							<img src="/img/gallery/rekonstrukciya/3.jpg">
 						</div>
 						<div class="dsrb-info">
-							 РЕКОНСТРУКЦИЯ ФАСАДОВ
+							 Реконструкция фасадов
 						</div>
 					</a> 
 					<a href="/fasadnye-raboty/pokraska/" class="dsrb-item">
@@ -261,7 +245,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 							<img src="/img/gallery/pokraska/5.jpg">
 						</div>
 						<div class="dsrb-info">
-							 ПОКРАСКА ФАСАДОВ
+							 Покраска фасадов
 						</div>
 					</a> 
 					<a href="/fasadnye-raboty/remont/" class="dsrb-item">
@@ -269,7 +253,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 							<img src="/img/gallery/remont/1.jpg">
 						</div>
 						<div class="dsrb-info">
-							 КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ
+							 Капитальный ремонт фасадов
 						</div>
 					</a> 
 					<a href="/fasadnye-raboty/uteplenie/" class="dsrb-item">
@@ -277,7 +261,7 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 							<img src="/img/gallery/uteplenie/2.jpg">
 						</div>
 						<div class="dsrb-info">
-							 УТЕПЛЕНИЕ ФАСАДОВ
+							 Утепление фасадов
 						</div>
 					</a> 
 					<a href="/fasadnye-raboty/mokryj-fasad/" class="dsrb-item">
@@ -285,38 +269,13 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 							<img src="/img/gallery/mokryj-fasad/5.jpg">
 						</div>
 						<div class="dsrb-info">
-							 МОКРЫЙ ФАСАД
+							 Мокрый фасад
 						</div>
 					</a> 
 				</div>
 
-				<!-- <div class="row usl">
-					<div class="col-sm-4 col-xs-6">
-				<a href="http://betterstroy.ru/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ</a> <img src="/img/gallery/montazh/1.jpg" alt="">
-					</div>
-					<div class="col-sm-4 col-xs-6">
-				<a href="http://betterstroy.ru/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ</a> <img src="/img/gallery/rekonstrukciya/3.jpg" alt="">
-					</div>
-					<div class="col-sm-4 col-xs-6">
-				<a href="http://betterstroy.ru/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ</a> <img src="/img/gallery/pokraska/5.jpg" alt="">
-					</div>
-				</div>
-				<br>
-				<div class="row usl">
-					<div class="col-sm-4 col-xs-6">
-				<a href="http://betterstroy.ru/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ</a> <img src="/img/gallery/remont/1.jpg" alt="">
-					</div>
-					<div class="col-sm-4 col-xs-6">
-				<a href="http://betterstroy.ru/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ</a> <img src="/img/gallery/uteplenie/2.jpg" alt="">
-					</div>
-					<div class="col-sm-4 col-xs-6">
-				<a href="http://betterstroy.ru/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД</a> <img src="/img/gallery/mokryj-fasad/5.jpg" alt="">
-					</div>
-				</div> -->
-				<div style="clear:both;">
-				</div>
-				<p class="wow fadeInUp" data-wow-delay="0.1s">
-				</p>
+				<div style="clear:both;"></div>
+		
 				<div class="content-in-page">
 					<p>
 						 Компания BetterStroy более 7 лет занимается проектированием и возведением домов, коттеджей в Москве. Мы строим клиентам комфортабельное и недорогое жилье по современным технологиям.
@@ -335,33 +294,31 @@ $APPLICATION->SetPageProperty("description","Компания Better Stroy за�
 						 Проекты в работе
 					</p>
 					<div class="ds-raboti">
-<a href="/proekty-v-rabote/yamishchevo/" class="dsrb-item">
-						<div class="dsrb-img">
-<img src="/proekty-v-rabote/yamishchevo/img/9.JPG">
+						<a href="/proekty-v-rabote/yamishchevo/" class="dsrb-item">
+												<div class="dsrb-img">
+						<img src="/proekty-v-rabote/yamishchevo/img/9.JPG">
 						</div>
 						<div class="dsrb-info">
 							 Устройство подпорной стенки, Агрохимстанция РАОС п.&nbsp;Раменской
 						</div>
-</a> <a href="/proekty-v-rabote/stroitelstvo-monolitnoy-pristroyki-barvikha/" class="dsrb-item">
-						<div class="dsrb-img">
-<img src="/proekty-v-rabote/stroitelstvo-monolitnoy-pristroyki-barvikha/img/15.JPG">
-						</div>
-						<div class="dsrb-info">
+						</a> <a href="/proekty-v-rabote/stroitelstvo-monolitnoy-pristroyki-barvikha/" class="dsrb-item">
+												<div class="dsrb-img">
+						<img src="/proekty-v-rabote/stroitelstvo-monolitnoy-pristroyki-barvikha/img/15.JPG">
+												</div>
+												<div class="dsrb-info">
 							 Строительство монолитной пристройки к частному дому<br>
                              Одинцовский р-он, дер. "Барвиха" 
+													</div>
+							</a> <a href="/proekty-v-rabote/monolitnye-raboty-yamishchevo/" class="dsrb-item" style="width:240px;">
+													<div class="dsrb-img">
+							<img src="/proekty-v-rabote/yamishchevo/img/simg_2.jpg">
+													</div>
+													<div class="dsrb-info">
+														 Устройство тепловой камеры, <br>  г. Москва, станция Перово (РЖД)
 						</div>
-</a> <a href="/proekty-v-rabote/monolitnye-raboty-yamishchevo/" class="dsrb-item" style="width:240px;">
-						<div class="dsrb-img">
-<img src="/proekty-v-rabote/yamishchevo/img/simg_2.jpg">
-						</div>
-						<div class="dsrb-info">
-							 Устройство тепловой камеры, <br>
-							 г. Москва, станция Перово (РЖД)
-						</div>
-</a>
+					</a>
 					</div>
-					<p style="clear:both">
-					</p>
+					<p style="clear:both"></p>
 					<h2 style="margin:25px 0">Строительство домов от компании BetterStroy</h2>
 					<p>
 						 Наша компания оказывает следующие виды проектных и строительных услуг:
@@ -429,7 +386,7 @@ jQuery(document).ready(function(){
 					<div class="home-bottom-media row">
 						<div class="home-reviews col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="my-title">
-								 ОТЗЫВЫ <a href="/otzyvy/">все отзывы</a>
+								 Отзывы <a href="/otzyvy/">Все отзывы</a>
 							</div>
 							<div class="reviews-block">
 								<div>
@@ -458,7 +415,7 @@ jQuery(document).ready(function(){
 						</div>
 						<div class="home-news col-lg-6 col-md-6 col-sm-12 col-xs-12">
 							<div class="my-title">
-								 НОВОСТИ<a href="/news/">все новости</a>
+								 Новости<a href="/news/">Все новости</a>
 							</div>
 							 <?$APPLICATION->IncludeComponent(
 "bitrix:news",

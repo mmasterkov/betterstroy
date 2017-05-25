@@ -19,18 +19,24 @@ $APPLICATION->SetPageProperty("keywords", "навесные вентилируе
 				Примеры наших работ:
 			</p>
 			<div class="razd">
-				<div class="rd-item">
- <a href="/fasadnye-raboty/adm_res/"> <img src="/img/adm_res/1.JPG"> </a> <a href="/fasadnye-raboty/adm_res/">Адм. здание <br>
-					Сходненской РЭС</a>
+				<div class="ds-raboti">
+					<a href="/fasadnye-raboty/adm_res/" class="dsrb-item">
+						<div class="dsrb-img"><img src="/img/adm_res/1.JPG"></div>
+						<div class="dsrb-info">Адм. здание <br>Сходненской РЭС</div>
+					</a>
+					
+					<a href="/fasadnye-raboty/perepechino/" class="dsrb-item">
+						<div class="dsrb-img"><img src="/img/perepechino/1.JPG"></div>
+						<div class="dsrb-info">Складской комплекс<br>Перепечино</div>
+					</a>
+					
+					<a href="/fasadnye-raboty/zelenograd-tc/" class="dsrb-item">
+						<div class="dsrb-img"><img src="/img/zelenograd-tc/1.JPG"></div>
+						<div class="dsrb-info">Вент. фасад<br>ТЦ г. Зеленоград</div>
+					</a>
 				</div>
-				<div class="rd-item">
- <a href="/fasadnye-raboty/perepechino/"> <img src="/img/perepechino/1.JPG"> </a> <a href="/fasadnye-raboty/perepechino/">Складской комплекс<br>
-					Перепечино</a>
-				</div>
-				<div class="rd-item">
- <a href="/fasadnye-raboty/zelenograd-tc/"> <img src="/img/zelenograd-tc/1.JPG"> </a> <a href="/fasadnye-raboty/zelenograd-tc/">Вент. фасад<br>
-					ТЦ г. Зеленоград</a>
-				</div>
+				
+				
 			</div>
 			 <style>
   .cr .rd-item > a > img {
@@ -147,11 +153,11 @@ $APPLICATION->SetPageProperty("keywords", "навесные вентилируе
 				 Звоните, и мы проконсультируем вас по любому вопросу.
 			</p>
 			<ul class="perilink">
-				<li><a href="http://betterstroy.ru/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ</a></li>
-				<li><a href="http://betterstroy.ru/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ</a></li>
-				<li><a href="http://betterstroy.ru/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
-				<li><a href="http://betterstroy.ru/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
-				<li><a href="http://betterstroy.ru/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД</a></li>
+				<li><a href="/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ</a></li>
+				<li><a href="/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ</a></li>
+				<li><a href="/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
+				<li><a href="/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
+				<li><a href="/fasadnye-raboty/mokryj-fasad/">МОКРЫЙ ФАСАД</a></li>
 			</ul>
 		</div>
 	</div>

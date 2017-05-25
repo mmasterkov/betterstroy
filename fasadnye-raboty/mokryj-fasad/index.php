@@ -16,57 +16,47 @@ $APPLICATION->SetPageProperty("keywords", "устройство мокрого �
 				</p>
 				<p class="wow fadeIn likeh4">Примеры наших работ:</p>
     <div class="razd">
+		<div class="ds-raboti">
+     
+		
+		<a href="/fasadnye-raboty/aksinyino/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/aksinyino/2015-07-03-820.jpg"></div>
+				<div class="dsrb-info">Аксиньино</div>
+			</a>
+      
+	  
+		<a href="/fasadnye-raboty/veljyaminovo/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/veljyaminovo/IMG-20150618-WA0012.jpg"></div>
+				<div class="dsrb-info">Вельяминово</div>
+			</a>
+						
 			
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/aksinyino/">
-                <img src="/img/gallery/aksinyino/2015-07-03-820.jpg">
-            </a>
-            <a href="/fasadnye-raboty/aksinyino/">Аксиньино</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/veljyaminovo/">
-                <img src="/img/gallery/veljyaminovo/IMG-20150618-WA0012.jpg">
-            </a>
-            <a href="/fasadnye-raboty/veljyaminovo/">Вельяминово</a>
-        </div>
-        
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/krivorozhskaya/">
-                <img src="/img/gallery/krivorozhskaya/IMG-20160217-WA0000.jpg">
-            </a>
-            <a href="/fasadnye-raboty/krivorozhskaya/">Криворожская 17а</a>
-        </div>
-        <div class="rd-item">
-            <a href="/fasadnye-raboty/yamischevo/">
-                <img src="/img/otd/fancy8.jpg">
-            </a>
-            <a href="/fasadnye-raboty/yamischevo/">Ямищево</a>
+			<a href="/fasadnye-raboty/krivorozhskaya/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/krivorozhskaya/IMG-20160217-WA0000.jpg"></div>
+				<div class="dsrb-info">Криворожская 17а</div>
+			</a>
+			
+			<a href="/fasadnye-raboty/yamischevo/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/otd/fancy8.jpg"></div>
+				<div class="dsrb-info">Ямищево</div>
+			</a>
+			
+			<a href="/fasadnye-raboty/plyushchikha-44-2-kapitalnyy-remont-fasada/" class="dsrb-item">
+				<div class="dsrb-img"><img src="/img/gallery/plyushchikha/2.JPG"></div>
+				<div class="dsrb-info">г. Москва, ул, Плющиха, д. 44/2</div>
+			</a>
+			
+			</div>
         </div>
 
-    </div>
+  
 				 <style>
   .cr .rd-item > a > img {
     height: 220px;
     width: 291px;
 }
 </style>
-<!--					<div class="razd cr">
-				<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/mokryj-fasad/1.jpg"> <img alt="устройство мокрого фасада цена" src="/img/gallery/mokryj-fasad/1.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/mokryj-fasad/2.jpg"> <img alt="сколько стоит мокрый фасад" src="/img/gallery/mokryj-fasad/2.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/mokryj-fasad/3.jpg"> <img alt="качественное устройство мокрого фасада" src="/img/gallery/mokryj-fasad/3.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/mokryj-fasad/4.jpg"> <img alt="мокрый фасад по выгодной стоимости" src="/img/gallery/mokryj-fasad/4.jpg"> </a>
-					</div>
-					<div class="rd-item">
- <a class="fancyimage" href="/img/gallery/mokryj-fasad/5.jpg"> <img alt="стоимость мокрого фасада." src="/img/gallery/mokryj-fasad/5.jpg"> </a>
-					</div>
-				</div>-->
+
 				<p>
 					 Данная технология обустройства и утепления фасадных стен здания — одна из самых популярных в строительной сфере. Систему «мокрый фасад» применяют как в частном, так и в высотном домостроительстве, при возведении новых и реконструкции старых построек. Основное преимущество такой облицовки — это простота изготовления. Также следует отметить ее хорошие теплоизоляционные и прочностные характеристики.
 				</p>
@@ -222,14 +212,14 @@ $APPLICATION->SetPageProperty("keywords", "устройство мокрого �
 					 Если вы планируете строить мокрый фасад в Москве или Подмосковье, обращайтесь в компанию BetterStroy. Вызовите нашего специалиста на объект, чтобы узнать предварительную цену за работу.
 				</p>
 				<ul class="perilink">
-<li><a href="http://betterstroy.ru/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
-<li><a href="http://betterstroy.ru/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/ventfasad/">МОНТАЖ ВЕНТИЛИРУЕМЫХ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/rekonstrukciya/">РЕКОНСТРУКЦИЯ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/pokraska/">ПОКРАСКА ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/remont/">КАПИТАЛЬНЫЙ РЕМОНТ ФАСАДОВ </a></li>
+<li><a href="/fasadnye-raboty/uteplenie/">УТЕПЛЕНИЕ ФАСАДОВ </a></li>
 </ul>
 			</div>
 		</div>
 	</div>
 </div>
- <br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+<?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
